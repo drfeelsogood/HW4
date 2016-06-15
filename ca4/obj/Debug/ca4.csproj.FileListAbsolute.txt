@@ -1,0 +1,8 @@
+D:\projects\Rebuild Nation\ca4\ca4\bin\Debug\ca4.exe.config
+D:\projects\Rebuild Nation\ca4\ca4\bin\Debug\ca4.exe
+D:\projects\Rebuild Nation\ca4\ca4\bin\Debug\ca4.pdb
+D:\projects\Rebuild Nation\ca4\ca4\obj\Debug\ca4.exe
+D:\projects\Rebuild Nation\ca4\ca4\obj\Debug\ca4.pdb
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca4\ca4\bin\Debug\ca4.exe.config
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca4\ca4\obj\Debug\ca4.exe
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca4\ca4\obj\Debug\ca4.pdb
